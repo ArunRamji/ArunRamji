@@ -2,16 +2,18 @@ Hi there 👋 I’m @ArunRamji
 
 I'm a Full-Stack Data Scientist working in Chennai, India.
 
-NOW
-- Developed AI tool to classify skin cancer :man_scientist:
-- Working on creating AI tool to predit the stock market movement :roller_coaster:
-- Working on BCI interface to monitor brain activity :brain:
-
 BIO
 
-🏢 I'm currently working at HDFC BANK as Data Scientist (Manager)
+🏢 I'm currently working at a Fintech company Yubi(Formerly CredAvenue) as Senior Manger Data Scientist. 
 
-⚙️ I use daily: Python (Pandas,Numpy,Scikit,keras,Pytorch..etc) , SAS , SQL , AzureML , Spark Beyond 
+⚙️ Skills: 
+  1. Python
+  2. SAS
+  3. Statisitics
+  4. Machine Learning Frameworks
+  5. Deep Learning Frameworks
+  6. NLP
+  7. Gen AI Application 
 
 🌱 Learning all about Machine learning and AI development
 
@@ -20,18 +22,6 @@ BIO
 📫 Reach me: https://twitter.com/arunramji11
 
 📖 Blog : https://medium.com/@arunramji11
-
-OWN PROJECTS 
-  1. https://share.streamlit.io/arunramji/skin_cancer/app.py
-  
-WORK PROJECTS
-  1. Churn prediction of credit card user
-  2. Product recommendation 
-  3. Insurance claim prediction 
-  4. Risk model for credit card / loans
-  5. Customer spend prediction 
-  6. Customer reactivation model for campaigning 
-  7. Personalised offer - Recommender system 
 
 
 
